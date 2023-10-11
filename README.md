@@ -20,7 +20,7 @@ Then, the code prompts the user for their age.
 
 ## Running the exercises file
 1. Open a terminal in your JupyterHub or ide
-2. Type in https://github.com/laural888/version_control_group_lab.git and hit the enter 
+2. Type in git clone https://github.com/laural888/version_control_group_lab.git and hit the enter 
 3. This should download a folder to your JupyterHub/ide with the file (it should be called version_control_group_lab)
 4. Double click the new folder in the file explorer. You should see the exercises file.
 5. Launch the exercises.ipynb notebook.
