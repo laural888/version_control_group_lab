@@ -1,13 +1,4 @@
 # Group 27: Insiah, Laura, Jake
-# Version Control Lab Exercises
-
-First, the code prompts the user for their name.
-
-Then, the code prompts the user for their age.
-* If the user is 18, then the output is that the code is also 18.
-* If the user is under 18, then the output states the person is young.
-* If the user is over 18, then the outputs states the person is old.
----
 
 # Plaintext and FOSS
 
@@ -25,6 +16,13 @@ Then, the code prompts the user for their age.
 4. Double click the new folder in the file explorer. You should see the exercises file.
 5. Launch the exercises.ipynb notebook.
 6. Next run the code by clicking on the code cell and hitting shift + enter
+
+## What the code does
+First, the code prompts the user for their name.
+Then, the code prompts the user for their age.
+* If the user is 18, then the output is that the code is also 18.
+* If the user is under 18, then the output states the person is young.
+* If the user is over 18, then the outputs states the person is old.
 
 ## Want to contribute
 Submit a pull request explaining what changes you made.
